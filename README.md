@@ -30,6 +30,9 @@ Programas Python voltados a cálculos e matérias diferentes.
   * Histograma de pesos por imc com array de alturas como entrada
   * Gráfico de regressão linear entre alturas e pesos
 
+🐍<a href="https://github.com/RaquelCCabral/Python/blob/main/converao%20de%20bases.py">Conversão de Bases</a>:
+  * Conversão de bases 2 a 16, com número, sua base e a base que deseja como entrada
+
 🐍<a href="https://github.com/RaquelCCabral/Python/blob/main/numero%20romano.py">Números Romanos</a>:
   * Número romano com decimal como entrada
   * Número decimal com romano como entrada
