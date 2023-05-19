@@ -36,3 +36,7 @@ Programas Python voltados a cálculos e matérias diferentes.
 🐍<a href="https://github.com/RaquelCCabral/Python/blob/main/numero%20romano.py">Números Romanos</a>:
   * Número romano com decimal como entrada
   * Número decimal com romano como entrada
+
+🐍<a href="https://github.com/RaquelCCabral/Python/blob/main/progressao.py">PA e PG</a>:
+  * Enésimo termo e soma dos termos de uma Progressão Aritmética
+  * Enésimo termo e soma dos termos de uma Progressão Geométrica 
