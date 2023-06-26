@@ -1,4 +1,4 @@
-# Python na matemática
+# Matemática com Python
 
 🐍Descrição:
 
