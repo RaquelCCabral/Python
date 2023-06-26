@@ -1,4 +1,4 @@
-# Pequenos Programas com Python
+# Python na matemática
 
 🐍Descrição:
 
