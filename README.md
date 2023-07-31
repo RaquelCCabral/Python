@@ -33,6 +33,9 @@ Programas Python voltados a cálculos e matérias diferentes.
 🐍<a href="https://github.com/RaquelCCabral/Python/blob/main/conversao%20de%20bases.py">Conversão de Bases</a>:
   * Conversão de bases 2 a 16, com número, sua base e a base que deseja como entrada
 
+🐍<a href="https://github.com/RaquelCCabral/Python/blob/main/numero%20por%20extenso.py">Número por Extenso</a>:
+  * Recebe número inteiro como entrada e retorna ele por extenso
+
 🐍<a href="https://github.com/RaquelCCabral/Python/blob/main/numero%20romano.py">Números Romanos</a>:
   * Número romano com decimal como entrada
   * Número decimal com romano como entrada
